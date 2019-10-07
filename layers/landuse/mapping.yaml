@@ -71,6 +71,7 @@ tables:
       - college
       - library
       - hospital
+      - parking
       leisure:
       - stadium
       - pitch
